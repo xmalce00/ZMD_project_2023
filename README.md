@@ -1,11 +1,11 @@
 # ZMD project 2023
 
-##Watermark
+## Watermark
 
-###1. "Spaced" watermark
+### 1. "Spaced" watermark
 
-###2. "Frequency" watermark
+### 2. "Frequency" watermark
 
-###3. TBA
+### 3. TBA
 
-###4. Attacks
+### 4. Attacks
